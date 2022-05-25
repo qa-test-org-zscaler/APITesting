@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-25T03:37:40Z" name="Default suite" finished-at="2022-05-25T03:37:42Z" duration-ms="2123">
+    <groups>
+    </groups>
+    <test started-at="2022-05-25T03:37:40Z" name="Default test" finished-at="2022-05-25T03:37:42Z" duration-ms="2123">
+      <class name="FreshRestAssured.TestingRA.Testcases">
+        <test-method is-config="true" signature="setSpecification()[pri:0, instance:FreshRestAssured.TestingRA.Testcases@5495333e]" started-at="2022-05-25T03:37:40Z" name="setSpecification" finished-at="2022-05-25T03:37:40Z" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setSpecification -->
+        <test-method signature="UpdateUser()[pri:0, instance:FreshRestAssured.TestingRA.Testcases@5495333e]" started-at="2022-05-25T03:37:40Z" name="UpdateUser" finished-at="2022-05-25T03:37:42Z" duration-ms="1458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUser -->
+      </class> <!-- FreshRestAssured.TestingRA.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
